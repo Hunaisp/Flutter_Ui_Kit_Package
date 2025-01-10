@@ -1,7 +1,7 @@
 name: flutter_ui_kit
 description: "A collection of reusable Flutter UI components."
 version: 0.0.1
-homepage: https://github.com/yourusername/flutter_ui_kit
+homepage: https://github.com/Hunaisp/Flutter_Ui_Kit_Package.git
 
 environment:
   sdk: ^3.5.4
